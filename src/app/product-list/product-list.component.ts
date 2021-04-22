@@ -9,6 +9,7 @@ import { products } from '../products';
   styleUrls: ['./product-list.component.css']
 })
 export class ProductAlertsComponent implements OnInit {
+  @Input() product;
   constructor() { }
 
   ngOnInit() {
