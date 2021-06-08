@@ -1,3 +1,4 @@
-# angular-ac26yb
+Angular Website Project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ac26yb)
+Available at https://zealkinyanjui.github.io/Angular-Project/
+
